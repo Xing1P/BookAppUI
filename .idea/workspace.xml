@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f8f0b9-3161-4149-b2c4-b921d51d72ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_aba_ui/assets/abamobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_aba_ui/assets/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/assets/s8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_book_ui/lib/detail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/assets/food8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_food_app/lib/FoodDetails.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/assets/images/sticky-notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/api/apihelper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/bloc/login/login_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/bloc/login/login_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/bloc/login/login_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/bloc/register/register_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/bloc/register/register_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/bloc/register/register_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/db/db_constrain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/db/dbhelper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/db/model/account.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/db/model/folder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/db/model/media.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/db/model/note.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/detail.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/key/app_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/route/app_route.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/screen/home/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/screen/loading.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/screen/login/login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_note_app/flutter_note_app/lib/screen/register/register.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_responsive_menu/assets/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/account-select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/discover-select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/discover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/home-select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/inbox-select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/inbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/love.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/loved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/tiktok-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/icons/tiktok-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/assets/video/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/lib/database/AppDatabase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/lib/view/login/loadingpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectModel/flutter_tiktok/lib/view/login/loginpage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_aba_ui/assets/abamobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_aba_ui/assets/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/assets/food8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_food/lib/food_details.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../General/FlutterTiktok/flutter_tiktok/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../General/FlutterTiktok/flutter_tiktok/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_29]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rBnBwIe8tOMQU1AvLq9sKjTY7g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Flutter\ProjectVideo\flutter_book_ui" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f8f0b9-3161-4149-b2c4-b921d51d72ab" name="Default Changelist" comment="" />
+      <created>1618458218674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618458218674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1407" height="276" key="GridCell.Tab.0.bottom" timestamp="1618461096972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618461096972" />
+    <state width="1407" height="276" key="GridCell.Tab.0.center" timestamp="1618461096972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618461096972" />
+    <state width="1407" height="276" key="GridCell.Tab.0.left" timestamp="1618461096972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618461096972" />
+    <state width="1407" height="276" key="GridCell.Tab.0.right" timestamp="1618461096972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1407" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618461096972" />
+  </component>
+</project>
